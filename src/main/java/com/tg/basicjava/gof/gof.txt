@@ -1,0 +1,30 @@
+设计模式
+1.为什么要有设计模式？
+解决软件开发中的表征问题，抽象出可以重复利用的解决方案。
+2.设计模式的分类？
+=====创建型模式=====
+是对象创建过程中各种问题的解决方案的总结。
+例如：
+工厂模式（factory,abstract factory）
+单例模式（singleton）
+构建器模式（builder）
+原型模式（prototype）
+=====结构型模式=====
+是对软件设计结构的总结（类的继承、组合方式等）
+例如：
+桥接模式（bridge）
+适配器模式（adaptor）
+装饰器模式（decorator）
+代理模式（proxy）
+组合模式（composite）
+外观模式（facade）
+享元模式（flyweight）
+=====行为型模式=====
+是对类、对象之间的职责划分、行为交互的总结。
+观察者模式（observer）
+访问者模式（visitor）
+策略模式（strategy）
+解释器模式（interpreter）
+命令模式（command）
+迭代器模式（iterator）
+模板方法模式（template method）
